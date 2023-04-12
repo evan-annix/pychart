@@ -2,7 +2,8 @@
 
 ![](https://i.imgur.com/t34nH8d.png)
 
-A simple bar graph generator that I've made specifically to prove that YouTube commenter was correct, and that a whole bunch of people in the replies are absolutely factually wrong and/or dumb. I obtained the data to support this objectively based and true opinion from the [TechPowerUp GPU Spec Database](https://www.techpowerup.com/gpu-specs/?mfgr=NVIDIA&mobile=No&workstation=No&igp=No&sort=released "TechPowerUp GPU Spec Database"), filtering for Nvidia GPUs, then using the filter text "TX 70" to see only the 70 Series cards. The 70 series was chosen because they're generally seen to be the high-mid range of GPUs, and because fuck you that's why. This gave me this rough data, which I then added price data to. Source: the internet.
+A simple bar graph generator that I've made specifically to prove that YouTube commenter was correct, and that a whole bunch of people in the replies are absolutely factually wrong and/or dumb. I obtained the data to support this objectively based and true opinion from the [TechPowerUp GPU Spec Database](https://www.techpowerup.com/gpu-specs/?mfgr=NVIDIA&mobile=No&workstation=No&igp=No&sort=released "TechPowerUp GPU Spec Database"), filtering for Nvidia GPUs, then using the filter text "TX 70" to see only the 70 Series cards. The 70 series was chosen because they're generally seen to be the high-mid range of GPUs, and because I said so. This gave me this rough data, which I then added price data to. 
+Source: Trust me, bro.
 <br>
 
 
